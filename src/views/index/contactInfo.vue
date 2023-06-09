@@ -7,27 +7,27 @@
             </div>
             <div class="col-md-12">
                 <div class="col-md-3">
-                    <a href="Mailto:maxiaoqu@gmail.com">
+                    <a href="Mailto:90452171@qq.com">
                         <i class="fa fa-envelope-o fa-2x"></i>
-                        <p>邮箱：maxiaoqu@gmail.com</p>
+                        <p>邮箱：904752171@qq.com</p>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="https://github.com/maxiaoqu" target="_blank">
+                    <a href="https://github.com/JunJ233" target="_blank">
                         <i class="fa fa-github fa-2x"></i>
-                        <p>GitHub：github.com/maxiaoqu</p>
+                        <p>GitHub：https://github.com/JunJ233</p>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="http://www.maxiaoqu.com" target="_blank">
+                    <a href="https://blog.csdn.net/x904752171u?spm=1000.2115.3001.5343" target="_blank">
                         <i class="fa fa-edge fa-2x"></i>
-                        <p>网站：www.maxiaoqu.com</p>
+                        <p>CSDN：https://blog.csdn.net/x904752171u</p>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="tel:16666666666">
+                    <a href="tel:13808874743">
                         <i class="fa fa-phone fa-2x"></i>
-                        <p>手机：16666666666</p>
+                        <p>手机：13808874743</p>
                     </a>
                 </div>
                 <hr>

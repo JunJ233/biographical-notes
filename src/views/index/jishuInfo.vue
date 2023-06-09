@@ -5,7 +5,7 @@
                 <h2>技术 <strong> 选型</strong></h2>
                 <hr>
                 <div class="clearfix"></div>
-                <p>主要涉及网站，包括PC端、手机端（安卓、Qt内嵌H5）、大屏可视化、地图页操作、微信小程序等</p>
+                <p>主要涉及web网页，后台管理系统,金融网页开发等</p>
             </div>
             <div class="row">
                 <Carousel type="card" arrow="always" height="320px">

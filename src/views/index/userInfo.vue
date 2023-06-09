@@ -10,33 +10,30 @@
                 <div class="col-md-3 col-sm-6 service"><i class="fa fa-laptop"></i>
                     <h4><strong>个人信息</strong></h4>
                     <p>
-                        年龄：28 <br/>
+                        年龄：21 <br/>
                         性别：男 <br/>
-                        籍贯：贵州
+                        籍贯：茂名
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service"><i class="fa fa-code"></i>
                     <h4><strong>工作经验</strong></h4>
                     <p>
-                        岗位：Web前端开发工程师<br/>
-                        状态：在职考虑换工作<br/>
-                        年限：4年
+                        暂无
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service"><i class="fa fa-rocket"></i>
                     <h4><strong>职位意向</strong></h4>
                     <p>
-                        地点：北京、杭州、贵阳<br/>
+                        地点：广州、深圳、佛山<br/>
                         行业：IT服务、互联网<br/>
-                        性质：全职
+                        性质：实习
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service"><i class="fa fa-bullseye"></i>
                     <h4><strong>联系方式</strong></h4>
                     <p>
-                        手机：16666666666<br/>
-                        邮箱：maxiaoqu@gmail.com<br/>
-                        网站：www.maxiaoqu.com
+                        手机：13808874743<br/>
+                        邮箱：904752171@qq.com<br/>
                     </p>
                 </div>
             </div>

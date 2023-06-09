@@ -5,7 +5,7 @@
                 <h2>平台 <strong> 框架</strong></h2>
                 <hr>
                 <div class="clearfix"></div>
-                <p>主要解决目前市场上没有满足我们项目本身的一些技术插件、技术框架等</p>
+                <p>目前市场上有满足我们项目本身的一些技术插件、技术框架等</p>
             </div>
             <div class="row">
                 <div class="portfolio-items">

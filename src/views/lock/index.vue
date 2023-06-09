@@ -24,7 +24,7 @@
                     <span class="focus-input"></span>
                     <span class="login-btn" @click.stop="gotoHome">解锁</span>
                 </div>
-                <p class="text-err" v-if="passwordErr">口令错误，微信、电话联系16666666666获取口令</p>
+                <p class="text-err" v-if="passwordErr">口令错误，微信、电话联系13808874743获取口令</p>
             </div>
         </div>
     </div>

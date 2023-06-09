@@ -14,21 +14,21 @@
                         <i class="fa fa-check-square-o"></i>
                         <div class="padding-left">
                             <h4>PC端</h4>
-                            <p>熟练各种浏览器、平板、各种分辨率下的电脑的样式适配，能独立解决项目上遇到>=90%以上的问题</p>
+                            <p>熟悉掌握后台管理系统的增删改查</p>
                         </div>
                         <i class="fa fa-check-square-o"></i>
                         <div class="padding-left">
                             <h4>移动端</h4>
-                            <p>熟练多种环境下（安卓、Qt、react-native...）的app应用开发，适配各种手机机型、屏幕尺寸</p></div>
+                            <p>了解多种环境下（安卓、Qt、react-native...）的app应用开发，适配各种手机机型、屏幕尺寸</p></div>
                         <i class="fa fa-check-square-o"></i>
                         <div class="padding-left">
                             <h4>小程序</h4>
-                            <p>熟练使用微信小程序、支付宝小程序，其他小程序开发正在尝试开发中...</p>
+                            <p>了解使用微信小程序，其他小程序开发正在尝试开发中...</p>
                         </div>
                         <i class="fa fa-check-square-o"></i>
                         <div class="padding-left">
                             <h4>其它</h4>
-                            <p>能单独提取、封装各种插件、方法，熟练使用Php开发，java开发正在自学中...</p>
+                            <p>能单独提取、封装各种插件、方法，java开发...</p>
                         </div>
                     </div>
                 </div>

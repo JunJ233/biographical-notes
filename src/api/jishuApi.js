@@ -2,86 +2,77 @@ let jishuData = [
     {
         key: "Ui框架",
         keyData: [
-            "iView Ui",
             "Element Ui",
-            "Vant",
-            "Mui",
-            "Mint Ui",
-            "Flutter",
+            "Element-Plus",
             "Ant-Design",
             "bootStrap"
         ]
     },
     {
-        key: "Vue技术",
+        key: "Vue掌握技术",
         keyData: [
             "vue",
             "vuex",
             "vue-router",
             "vue-loader",
-            "vue-i18n",
-            "axios"
+            "Axios",
+            "Ajax",
+            "less",
+            "vite"
         ]
     },
     {
-        key: "React技术",
+        key: "React了解技术",
         keyData: [
             "react",
             "react-native",
             "react-router",
-            "redux",
             "redux-thunk",
             "redux-saga",
-            "react-redux"
+            "react-redux",
+            "mvc"
         ]
     },
     {
-        key: "小程序",
+        key: "了解小程序",
         keyData: [
             "微信小程序",
-            "WXML",
-            "WXSS",
-            "WXS",
             "MVVM",
-            "mpvue"
         ]
     },
     {
         key: "可视化",
         keyData: [
             "Echarts",
-            "Highcharts",
-            "D3.js",
-            "Svg",
-            "Canvas"
         ]
     },
     {
         key: "地图相关",
         keyData: [
-            "Echarts地图",
-            "百度地图",
-            "高德地图",
-            "oplayer"
+"百度地图"
         ]
     },
     {
         key: "其他",
         keyData: [
-            "Nvm",
+            "npm",
             "Node.js",
-            "flutter",
             "typeScript",
-            "fontAwesome"
+            "git",
+            "yarn",
+            "webpack",
+            "了解Linux",
+            "JavaScript",
+            "ES6",
+            "TypeScript",
         ]
     },
     {
         key: "接触后台",
         keyData: [
-            "Php",
-            "Php-Smarty",
-            "think-php",
-            "Java(正在自学)"
+            "java",
+            "c",
+            "mongodb",
         ]
     }
 ];

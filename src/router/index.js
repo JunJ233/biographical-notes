@@ -15,7 +15,7 @@ const newRouters = (to, next, getrouter) => {
 
 // 当前路由的标题
 const routersTitle = title => {
-    title = "码小趣 - web前端开发工程师简历";
+    title = "许俊君 - web前端开发工程师简历";
     window.document.title = title;
 };
 
